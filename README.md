@@ -6,6 +6,11 @@ A modern, interactive web application for calculating tax savings through strate
 
 Tax loss harvesting is an investment strategy that involves selling securities at a loss to offset capital gains and reduce tax liability. This tool helps users visualize how selecting specific holdings with losses can reduce their effective capital gains, displaying the potential tax savings in real-time.
 
+
+## Live
+
+[Live Link](https://frontend-assignment-psi-weld.vercel.app/)
+
 ## Features
 
 ### Core Functionality
