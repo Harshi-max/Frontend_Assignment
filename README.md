@@ -82,8 +82,8 @@ Tax loss harvesting is an investment strategy that involves selling securities a
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd v0-project
+   git clone https://github.com/Harshi-max/Frontend_Assignment/
+   cd Frontend_Assignment
    ```
 
 2. **Install dependencies**
@@ -287,12 +287,6 @@ Tailwind breakpoints in component classes:
 - Price data sourced from external services and may not reflect real-time exchange prices
 - This application does not constitute financial or tax advice
 
-## Browser Support
-
-- Chrome/Edge: Latest 2 versions
-- Firefox: Latest 2 versions
-- Safari: Latest 2 versions
-- Mobile browsers: iOS Safari 12+, Chrome Mobile 90+
 
 ## Performance Optimizations
 
@@ -388,23 +382,3 @@ To contribute improvements:
 2. Make your changes with clear commit messages
 3. Test thoroughly on different screen sizes and browsers
 4. Submit a pull request with detailed description
-5. Ensure all linting passes: `pnpm lint`
-
-## License
-
-This project is provided as-is for educational and informational purposes.
-
-## Support & Questions
-
-For issues, questions, or suggestions:
-- Check the troubleshooting section above
-- Review component comments in the code
-- Consult the technical stack documentation
-- Open an issue with detailed reproduction steps
-
----
-
-**Last Updated**: May 2026  
-**Version**: 1.0.0  
-**Status**: Production Ready
-
